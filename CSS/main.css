@@ -274,6 +274,9 @@ ul {
   }
 }
 @media screen and (max-width: 376px) {
+  .hero {
+    background-position-x: right;
+  }
   .container {
     max-width: 311px;
   }
